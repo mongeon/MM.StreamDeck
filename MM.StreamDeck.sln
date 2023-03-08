@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MM.StreamDeck", "MM.StreamDeck\MM.StreamDeck.csproj", "{C6FCAAAE-079E-4CA8-A196-C13EBDE95488}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6FCAAAE-079E-4CA8-A196-C13EBDE95488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6FCAAAE-079E-4CA8-A196-C13EBDE95488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6FCAAAE-079E-4CA8-A196-C13EBDE95488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6FCAAAE-079E-4CA8-A196-C13EBDE95488}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {085872C7-532D-4593-88DB-99AAC2690B18}
+	EndGlobalSection
+EndGlobal
